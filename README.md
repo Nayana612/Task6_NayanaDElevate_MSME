@@ -20,7 +20,7 @@ using scatter plots and decision boundaries.
 ### **🧠 Model**
 **Algorithm: K-Nearest Neighbors (KNN)**
 
-**K-value: 3**
+**K-value: 3, 5, 7, 9**
 
 **Purpose: Classify iris flowers into 3 species based on sepal and petal measurements.**
 
